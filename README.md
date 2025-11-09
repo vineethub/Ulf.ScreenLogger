@@ -34,3 +34,11 @@ dotnet build
 ```
 
 #### ⚠️ Make sure the K4os.Hash.xxHash version is compatible (>=1.0.8) to avoid build errors.
+
+## 🏃 Running the Project
+
+Since this is a prototype, you can run the mock capture to test screen logging:
+
+```bash 
+dotnet run
+```
